@@ -1,2 +1,1 @@
 # RecommandationSystemTradingSignal
-# RecommandationSystemTradingSignal
